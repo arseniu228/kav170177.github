@@ -1,0 +1,155 @@
+.header{
+    position: absolute;
+width: 1435.18px;
+height: 483px;
+left: 1.38px;
+top: -4px;
+
+background: linear-gradient(180deg, rgba(112, 255, 0, 0.59) 0%, rgba(159, 76, 172, 0) 100%);
+transform: rotate(0.16deg);
+}
+
+.bukvi{
+    position: absolute;
+width: 1291.5px;
+height: 361px;
+left: 83.03px;
+top: 42px;
+
+transform: rotate(0.16deg);
+}
+.mw2{position: absolute;
+    width: 994px;
+    height: 694px;
+    left: 79px;
+    top: 510.64px;
+    
+    border-radius: 169px;
+    transform: rotate(-0.32deg);}
+.text{
+    position: absolute;
+    width: 1304px;
+    height: 1666px;
+    left: 67px;
+    top: 1314px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 124.52%;
+    /* or 49px */
+    
+    text-align: justify;
+    letter-spacing: 0.05em;
+    
+    color: #000000;}
+.text2{
+        position: absolute;
+        width: 530px;
+        height: 1000px;
+        left: 75px;
+        top: 2700px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 24px;
+        
+        color: #ff0000;}
+        
+.frame2{
+            position: absolute;
+            width: 564px;
+            height: 182px;
+            left: 0px;
+            top: 340px;
+            
+          }
+.footer2{
+            
+
+    position: absolute;
+    width: 1440px;
+    height: 451px;
+    left: 0px;
+    top: 3507px;
+    
+    background: linear-gradient(180deg, rgba(0, 87, 255, 0.69) 0%, rgba(41, 96, 203, 0) 100%);
+    opacity: 0.5;
+    box-shadow: 3px 4px 5px px #2c3e81;}
+.text20{
+    position: absolute;
+    width: 1103px;
+    height: 170px;
+    left: 130px;
+    top: 0px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 24px;
+    
+    color: #1900ff;
+    }
+
+.frame12{
+        position: absolute;
+        width: 564px;
+        height: 182px;
+        left: 859px;
+        top: 3067px;
+        
+     }
+.text190{
+    
+    position: absolute;position: absolute;
+    width: 843px;
+    height: 292px;
+    left: 622px;
+    top: 2750px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #ff0000; }
+
+.frame2:hover{
+    box-shadow: 0px 24px 4px 17px rgba(0, 0, 0, 0.25);
+
+    }
+.frame12:hover{
+        box-shadow: 0px 24px 4px 17px rgba(0, 0, 0, 0.25);
+    
+        }
+ .mw2:hover{ 
+    width: 1200px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
